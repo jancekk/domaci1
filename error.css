@@ -39,8 +39,14 @@ a:visited{
     font-family: "Appetite-Rounded";
 }
 body{
-    background-image: url("../img/fur.jpeg");
-     background-size: 100% 100%; 
+    background-image: url("img/fur.jpeg");
+    background-size: 100% 100%; 
     background-repeat: no-repeat;
     background-attachment: fixed; 
+}
+form {
+    display: flex;
+    align-items: center;
+    height: 400px;
+    height: 400px;
 }
