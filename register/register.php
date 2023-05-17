@@ -12,7 +12,7 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/ce5233f2e0.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="register.css">
-    <title>Document</title>
+    <title>Register</title>
 </head>
 <?php
     if(ISSET($_POST['submit'])){

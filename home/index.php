@@ -58,8 +58,8 @@
                 <p style="font-size: 15px; font-family:Arial, Helvetica, sans-serif; color:grey; margin:0%">Makeup stylist</p>
             </div>
         </div>
-        <button>
-            <p>View all team members</p>
+        <button onclick="window.location.href='../reservation/reservation.php'">
+            <p>Make a reservation!</p>
             <i class="fa-solid fa-arrow-right circle-icon"></i>
         </button>
     </div>
